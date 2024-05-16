@@ -1,16 +1,18 @@
 Cytochrome c Oxidase spectroscopy notes
 
-01.05.24 
-experiment #234 with par.den. cco, 5mM cco in colloid nanoparticles, 2ml solution, IR spectrum file: 010524_spec.ir 
+01.05.24
+experiment #234 with par.den. cco, 5mM cco in colloid nanoparticles, 2ml solution, IR spectrum file: 010524_spec.ir
 
-02.05.24 
+02.05.24
 experiment #235, repeat of experiment #234, results similar, IR spectrum file: 020524_spec.ir
 
 03.05.24
 experiment #236, conditions like #234 and #235 but temperature increased from 18C to 25C, peaks in spectrum less defined than #234 #235, IR spectrum file: 030524_spec.ir
 
 09.05.2024
-experiment #237, conditions like #234 but additional chromatography before elution, IR spectrum file: 090524_spec.ir, cco peaks better distinguishable from solution peaks due to cleaner sample, repeat with higher temperature. 
+experiment #237, conditions like #234 but additional chromatography before elution, IR spectrum file: 090524_spec.ir, cco peaks better distinguishable from solution peaks due to cleaner sample, repeat with higher temperature.
 
 10.05.24
-experiment #238, conditions like #237 but with temperature like #236 at 25C instead of 18C, IR spectrum file: 100524_spec.ir. 
+experiment #238, conditions like #237 but with temperature like #236 at 25C instead of 18C, IR spectrum file: 100524_spec.ir.
+
+16.05.24
